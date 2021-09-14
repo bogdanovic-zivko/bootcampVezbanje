@@ -7,3 +7,4 @@ U lokalnom bootcampVezbanje
 1) napraviti folder sa svojim imenom i prezimenom
 2) u njemu fajl sa vasim licnim podacim - ime, prezime, zanimanje, github username
 3) izmeniti fajl vezba1.txt - upisati u fajlu sta god zelite
+Sve izmene okaciti nazad na github
